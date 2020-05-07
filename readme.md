@@ -1,3 +1,12 @@
+
+<br />
+<p>
+  <a href="https://rxjs-dev.firebaseapp.com/guide/observable">
+    <img src="https://cdn.auth0.com/blog/auth-observables/rxjs-logo.png" alt="Logo" width="80" height="80">
+  </a>
+</p>
+
+
 # Welcome to Learning Observables!
 This **repository** contains learning material pertaining to rxjs observables and subjects.
 
