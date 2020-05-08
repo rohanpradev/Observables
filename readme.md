@@ -1,4 +1,4 @@
-
+<br />
 <p align="center">
   <a href="https://rxjs-dev.firebaseapp.com/guide/observable">
     <img src="https://cdn.auth0.com/blog/auth-observables/rxjs-logo.png" alt="Logo" width="80" height="80">
